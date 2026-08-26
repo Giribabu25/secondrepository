@@ -9,3 +9,12 @@
   padding: 0;
   box-sizing: border-box; /* Includes padding in width calculations */
 }
+
+/* 2. Base Body Styles */
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  line-height: 1.6;
+  color: var(--text-dark);
+  background-color: var(--bg-light);
+  padding: 20px;
+}
